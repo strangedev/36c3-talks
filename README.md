@@ -33,11 +33,10 @@
 - [Kritikalität von Rohstoffen - wann platzt die Bombe?](https://media.ccc.de/v/36c3-10598-kritikalitat_von_rohstoffen_-_wann_platzt_die_bombe)
 	- Wie kann man die Kritikalität von Rohstoffen quantifizieren? Es werden aktuelle Daten vorgestellt.
 
-
-### Gesellschaft
-
 - [Verkehrswende selber hacken](https://media.ccc.de/v/36c3-10881-verkehrswende_selber_hacken)
 	- Wie funktionieren eigentlich Sharingsysteme und wie hackt man sich eins?
+
+### Gesellschaft
 
 - [Finfisher verklagen](https://media.ccc.de/v/36c3-11217-finfisher_verklagen)
 	- Türkischer Geheimdienst setzt Münchener Malware gegen Oppositionelle ein
