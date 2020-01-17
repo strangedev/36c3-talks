@@ -42,19 +42,25 @@
 - [Finfisher verklagen](https://media.ccc.de/v/36c3-11217-finfisher_verklagen)
 	- Türkischer Geheimdienst setzt Münchener Malware gegen Oppositionelle ein
 
-- [Let’s play Infokrieg](https://media.ccc.de/v/36c3-10639-let_s_play_infokrieg)
- 	- "Wie die radikale Rechte (ihre) Politik gamifiziert"
-
 - [Hacking the Media: Geflüchtete schmuggeln, Nazis torten, Pässe fälschen](https://media.ccc.de/v/36c3-10541-hacking_the_media_gefluchtete_schmuggeln_nazis_torten_passe_falschen)
 	- Rückblick auf die Aktionen des Peng Kollektivs
 
-- [Rechter Feminismus in der 'identitären Bewegung'? Wow to red pill a woman](https://media.ccc.de/v/36c3-115-rechter-feminismus-in-der-identitren-bewegung-oder-how-to-red-pill-a-woman)
+### Antifaschismus
+
+- [Von Menschen radikalisiert: Über Rassismus im Internet](https://media.ccc.de/v/36c3-11097-von_menschen_radikalisiert_uber_rassismus_im_internet)
+	- Kleine Einführung zum Intersektionalismus und zu pauschalisierenenden Ablehnungskonstruktionen
+	- "Was ist eigentlich Rassismus und was hat das mit Seximus zu tun"
+
+- [Rechter Feminismus in der 'identitären Bewegung'? How to red pill a woman](https://media.ccc.de/v/36c3-115-rechter-feminismus-in-der-identitren-bewegung-oder-how-to-red-pill-a-woman)
 
 - [Aus dem Schimpfwörterbuch der neuen Rechten](https://media.ccc.de/v/36c3-10935-aus_dem_schimpfworterbuch_der_neuen_rechten)
 	- Kuriositäten aus der rechten Netzszene
 
 - [Die Affäre Hannibal](https://media.ccc.de/v/36c3-11114-die_affare_hannibal)
 	- Eine Geheimdienstgeschichte über deutsche Staatsbedienstete, die eine paramilitärische Prepperorganisation gründen
+
+- [Let’s play Infokrieg](https://media.ccc.de/v/36c3-10639-let_s_play_infokrieg)
+ 	- "Wie die radikale Rechte (ihre) Politik gamifiziert"
 
 ### Datenreichtum
 
